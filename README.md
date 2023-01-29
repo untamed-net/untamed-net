@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="textbox">
+    <p class="alignleft">
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
+                alt="c" width="50" height="50"/> </a> 
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
+                alt="c" width="50" height="50"/> </a> 
+    </p>
+    <p class="alignright">
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
+                alt="c" width="50" height="50"/> </a> 
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
+                alt="c" width="50" height="50"/> </a> 
+    </p>
+  </div>
