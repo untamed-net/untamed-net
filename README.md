@@ -3,7 +3,8 @@
 <!-- color=0:E52B2B,0:E52B2B -->
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-<img width="60%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 * 📚 Bachelor of _**Informatics**_ graduate from the _**University of Plovdiv**_, currently preparing for a Master's degree
 * 🌱 Learning more about: **Spring, Angular, React and JSON**
@@ -33,8 +34,7 @@
     <a href="https://www.facebook.com/profile.php?id=100000511272599" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
            alt="alexander karaneichev" height="30" width="40" /></a>
-    <a href="https://discordapp.com/users/296674319235547136/"
- target="blank">
+    <a href="https://discordapp.com/users/296674319235547136/" target="blank">
       <img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" 
            alt="discord" height="30" width="40" /></a>
 </p>
@@ -58,7 +58,6 @@
     <br>
     <br>
     <img width="29px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />
-
     <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
     <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
     <img width="34.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
