@@ -4,7 +4,6 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 * 📚 Bachelor of _**Informatics**_ graduate from the _**University of Plovdiv**_, currently preparing for a Master's degree
@@ -12,6 +11,7 @@
 * 👨‍💻 Passionate about leveraging AI to solve real-world problems and enhance user experiences
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -27,6 +27,7 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
            alt="user:16545066" height="30" width="40" /></a>
     <a href="https://gitlab.com/rythm-net" target="blank">
+
       <img align="center" src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" 
            alt="user:16545066" height="30" width="40" /></a>
     <a href="https://instagram.com/kkaraneichev" target="blank">
