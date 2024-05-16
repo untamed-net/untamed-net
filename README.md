@@ -14,31 +14,6 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-### Find me around the web:</h3>
-  <p align="left">
-    <a href="https://twitter.com/@kkaraneichev" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-           alt="@kkaraneichev7" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/alexander-karaneichev-05a38b200" target="blank">
-      <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" 
-           alt="alexander karaneichev" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/16545066/alexander-karaneichev"target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
-           alt="user:16545066" height="30" width="40" /></a>
-    <a href="https://gitlab.com/rythm-net" target="blank">
-      <img align="center" src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" 
-           alt="user:16545066" height="30" width="40" /></a>
-    <a href="https://instagram.com/kkaraneichev" target="blank">
-      <img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" 
-           alt="kkaraneichev7" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/profile.php?id=100000511272599" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-           alt="alexander karaneichev" height="30" width="40" /></a>
-    <a href="https://discordapp.com/users/296674319235547136/" target="blank">
-      <img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" 
-           alt="discord" height="30" width="40" /></a>
-</p>
-
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h3 align="left">My stack:</h3>
@@ -104,6 +79,31 @@
     <img width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png">
     <img width="33px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
   </kbd>
+</p>
+
+### Find me around the web:</h3>
+  <p align="left">
+    <a href="https://twitter.com/@kkaraneichev" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+           alt="@kkaraneichev7" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/alexander-karaneichev-05a38b200" target="blank">
+      <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"
+           alt="alexander karaneichev" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/16545066/alexander-karaneichev"target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
+           alt="user:16545066" height="30" width="40" /></a>
+    <a href="https://gitlab.com/rythm-net" target="blank">
+      <img align="center" src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" 
+           alt="user:16545066" height="30" width="40" /></a>
+    <a href="https://instagram.com/kkaraneichev" target="blank">
+      <img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" 
+           alt="kkaraneichev7" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100000511272599" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+           alt="alexander karaneichev" height="30" width="40" /></a>
+    <a href="https://discordapp.com/users/296674319235547136/" target="blank">
+      <img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" 
+           alt="discord" height="30" width="40" /></a>
 </p>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
