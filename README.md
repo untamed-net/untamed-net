@@ -10,7 +10,7 @@
 * 👨‍💻 Passionate about leveraging AI to solve real-world problems and enhance user experiences
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -34,7 +34,8 @@
     <a href="https://www.facebook.com/profile.php?id=100000511272599" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
            alt="alexander karaneichev" height="30" width="40" /></a>
-    <a href="https://discordapp.com/users/296674319235547136/" target="blank">
+    <a href="https://discordapp.com/users/296674319235547136/"
+ target="blank">
       <img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" 
            alt="discord" height="30" width="40" /></a>
 </p>
