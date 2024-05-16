@@ -5,7 +5,6 @@
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 
-
 * 📚 Bachelor of _**Informatics**_ graduate from the _**University of Plovdiv**_, currently preparing for a Master's degree
 * 🌱 Learning more about: **Spring, Angular, React and JSON**
 * 👨‍💻 Passionate about leveraging AI to solve real-world problems and enhance user experiences
@@ -27,7 +26,6 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
            alt="user:16545066" height="30" width="40" /></a>
     <a href="https://gitlab.com/rythm-net" target="blank">
-
       <img align="center" src="https://cdn.worldvectorlogo.com/logos/gitlab-3.svg" 
            alt="user:16545066" height="30" width="40" /></a>
     <a href="https://instagram.com/kkaraneichev" target="blank">
