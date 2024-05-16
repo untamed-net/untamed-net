@@ -3,7 +3,7 @@
 <!-- color=0:E52B2B,0:E52B2B -->
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="60%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 * 📚 Bachelor of _**Informatics**_ graduate from the _**University of Plovdiv**_, currently preparing for a Master's degree
 * 🌱 Learning more about: **Spring, Angular, React and JSON**
@@ -58,6 +58,7 @@
     <br>
     <br>
     <img width="29px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />
+
     <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
     <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
     <img width="34.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
