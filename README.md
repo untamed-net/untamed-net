@@ -3,14 +3,13 @@
 <!-- color=0:E52B2B,0:E52B2B -->
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 * 📚 Bachelor of _**Informatics**_ graduate from the _**University of Plovdiv**_, currently preparing for a Master's degree
 * 🌱 Learning more about: **Spring, Angular, React and JSON**
 * 👨‍💻 Passionate about leveraging AI to solve real-world problems and enhance user experiences
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
