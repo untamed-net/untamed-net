@@ -4,6 +4,7 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 * 📚 Bachelor of _**Informatics**_ graduate from the _**University of Plovdiv**_, currently preparing for a Master's degree
