@@ -71,7 +71,6 @@
     <img width="86px" src="https://static-00.iconduck.com/assets.00/dot-net-original-icon-2048x816-f3l7srrd.png" />
     <img width="34.5px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" />
   </kbd>
-  <br>
     <kbd>
     <kbd>Database</kbd>
     <br>
@@ -80,6 +79,7 @@
     <img width="25px" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" />
     <img width="34px" src="https://github.com/dbeaver/dbeaver/wiki/dbeaver/images/dbeaver-head.png" />
   </kbd>
+  <br>
   <kbd>
     <kbd>Terminal Script / VCS</kbd>
     <br>
