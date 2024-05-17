@@ -4,17 +4,17 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 * 📚 Bachelor of _**Informatics**_ graduate from the _**University of Plovdiv**_, currently preparing for a Master's degree
 * 🌱 Learning more about: **Spring, Angular, React and JSON**
 * 👨‍💻 Passionate about leveraging AI to solve real-world problems and enhance user experiences
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-### Find me around the web:</h3>
+<h3>Find me around the web:</h3>
   <p align="left">
     <a href="https://twitter.com/@kkaraneichev" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
@@ -64,6 +64,7 @@
     <img width="34.5px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
     <img width="34.5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/1200px-Processing_2021_logo.svg.png" />
   </kbd>
+  <br>
   <kbd>
     <kbd>Libraries / Frameworks</kbd>
     <br>
@@ -81,7 +82,6 @@
     <img width="25px" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" />
     <img width="34px" src="https://github.com/dbeaver/dbeaver/wiki/dbeaver/images/dbeaver-head.png" />
   </kbd>
-      <br>
   <kbd>
     <kbd>Terminal Script / VCS</kbd>
     <br>
