@@ -10,8 +10,6 @@
 * 👨‍💻 Passionate about leveraging AI to solve real-world problems and enhance user experiences
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h3>Find me around the web:</h3>
@@ -64,7 +62,6 @@
     <img width="34.5px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
     <img width="34.5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/1200px-Processing_2021_logo.svg.png" />
   </kbd>
-  <br>
   <kbd>
     <kbd>Libraries / Frameworks</kbd>
     <br>
@@ -82,6 +79,7 @@
     <img width="25px" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" />
     <img width="34px" src="https://github.com/dbeaver/dbeaver/wiki/dbeaver/images/dbeaver-head.png" />
   </kbd>
+  <br>
   <kbd>
     <kbd>Terminal Script / VCS</kbd>
     <br>
