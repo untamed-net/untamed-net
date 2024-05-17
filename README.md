@@ -10,7 +10,7 @@
 * 👨‍💻 Passionate about leveraging AI to solve real-world problems and enhance user experiences
 * 📫 How to reach me: **alex.karaneichev@gmail.com**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
